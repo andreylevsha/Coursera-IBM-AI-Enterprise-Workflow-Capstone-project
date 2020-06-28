@@ -1,0 +1,14 @@
+unique_id,timestamp,tag,score,runtime,model_version,model_note
+d8f2a085-48dd-475b-b730-9595baac34c5,1589100853.8349066,BELGIUM,Random Forest,{'rmse': 140.77981790901663},000:00:07,0.1,supervised learing model for time-series
+591c4aea-e757-4424-ad83-dd20b23c673f,1589100858.8909056,EIRE,Ada Boosting,{'rmse': 458.0280333889965},000:00:05,0.1,supervised learing model for time-series
+3fa1ab13-ff75-43e5-9668-e4318245680c,1589100865.0644832,FRANCE,Random Forest,{'rmse': 1798.102530245146},000:00:06,0.1,supervised learing model for time-series
+133db45c-25d4-4b55-b517-a624859375cf,1589100870.408484,GERMANY,Gradient Boosting,{'rmse': 587.6740825051725},000:00:05,0.1,supervised learing model for time-series
+70d7f94b-e56b-467e-b7cb-005ffa0c047e,1589100875.1490073,HONG_KONG,Gradient Boosting,{'rmse': 1299.1346366067282},000:00:04,0.1,supervised learing model for time-series
+67877eec-7aff-4e14-8587-3a927711f4b3,1589100881.1526442,NETHERLANDS,Random Forest,{'rmse': 111.73993292532847},000:00:06,0.1,supervised learing model for time-series
+12eaf64d-4706-4c4e-919d-6af3f8fdd8b0,1589100887.151821,PORTUGAL,Random Forest,{'rmse': 714.2146395464088},000:00:05,0.1,supervised learing model for time-series
+a513cbb7-717c-409b-b6d6-d80021b37804,1589100890.5268207,SINGAPORE,Ada Boosting,{'rmse': 5011.057993186111},000:00:03,0.1,supervised learing model for time-series
+fc2da449-ac53-4457-9283-af3627eb4865,1589100896.6298187,SPAIN,Random Forest,{'rmse': 144.21112699712154},000:00:06,0.1,supervised learing model for time-series
+9d0d9869-ac64-4241-a21a-648526485f6d,1589100902.693868,TOTAL,Random Forest,{'rmse': 24674.256335452057},000:00:06,0.1,supervised learing model for time-series
+2fb65895-ea16-4ee6-9e0c-3c5cea8b9ea5,1589100908.967209,UNITED_KINGDOM,Gradient Boosting,{'rmse': 27761.690351272406},000:00:06,0.1,supervised learing model for time-series
+0684428e-35ed-45dc-ae1e-6b94ca965402,1589102004.7458806,TOTAL,Random Forest,{'rmse': 24674.256335452057},000:00:06,0.1,supervised learing model for time-series
+b6a4723d-4a9a-4b7a-bd6e-04446c56979c,1589102127.2064226,TOTAL,Random Forest,{'rmse': 24674.256335452057},000:00:05,0.1,supervised learing model for time-series

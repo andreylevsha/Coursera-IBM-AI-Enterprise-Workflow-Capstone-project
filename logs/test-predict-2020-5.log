@@ -1,0 +1,16 @@
+unique_id,timestamp,tag,y_pred,target_date,runtime,model_version,model_note
+5bfe8d6b-8fed-429d-ad99-6964645b9520,1589100301.5554852,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+8dfa87fa-dcf8-4152-a81a-12b6c5ba1142,1589100809.7482994,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+8dc3791d-ae46-4a19-8b8b-ded55b5f329a,1589101082.7058372,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+cef9fa1f-6727-4cf9-a4fe-09628aba55f6,1589101315.488696,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+470652f1-03f7-484f-ba98-beece09c3045,1589101703.5548089,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+4bea65be-fa54-48b8-9035-2ee66351524a,1589101897.4257426,TOTAL,[183770.305],2018-01-05,000:00:01,0.1,supervised learing model for time-series
+7ed8f66a-aec7-496d-8dae-6486590db097,1589101898.3847585,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+3c16f15d-c5e2-4a6f-836c-baca581d9fcf,1589101899.1517491,EIRE,[1494.08358333],2019-02-05,000:00:00,0.1,supervised learing model for time-series
+b30f9049-9643-48cc-aafe-012c8f9784e1,1589101899.9097095,FRANCE,[1865.46866667],2018-12-05,000:00:00,0.1,supervised learing model for time-series
+fb3c8617-f0a7-4f56-8cd4-978c4e3c692a,1589101903.858236,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+7018664b-f8eb-4ac8-93c5-ead21cc816e2,1589102419.381579,TOTAL,[183770.305],2018-01-05,000:00:01,0.1,supervised learing model for time-series
+6cdea7ea-2570-485f-a11a-d7835361c9b2,1589102635.6877813,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+8f13be13-e2c3-4596-926f-84b40d17a3a7,1589102636.5365343,TOTAL,[183770.305],2018-01-05,000:00:00,0.1,supervised learing model for time-series
+ae582f88-69fa-423a-9f32-7139c46dde58,1589102637.5135365,EIRE,[1494.08358333],2019-02-05,000:00:00,0.1,supervised learing model for time-series
+e4d020aa-63c9-4ec5-9ad1-3de7f3d14dc2,1589102638.3265731,FRANCE,[1865.46866667],2018-12-05,000:00:00,0.1,supervised learing model for time-series
