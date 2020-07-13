@@ -5,9 +5,8 @@ Please, go to [https://github.com/aavail/ai-workflow-capstone](https://github.co
 
 All commands are from this directory.
 
-## Part 1
-Please refer to the notebook `part1-data-investigation.ipynb` to get detailed insights into Part 1 solution. A slide show is also available in the *documentation* sub-directory.
-
+## Parts 1 & 2
+Please refer to the notebook `analysis.ipynb` to get detailed insights. 
 ### Data Ingestion
 To run the data ingestion script
 ```bash
@@ -21,8 +20,6 @@ $ python data_visualization.py
 ```
 All images created are saved in the *images* sub-directory.
 
-## Part 2
-Please refer to the notebook `part2-model-building-and-selection.ipynb` to get detailed insights into Part 2 solution. A slide show is also available in the *documentation* sub-directory.
 
 ### Data Engineering
 To run the data ingestion script
@@ -37,8 +34,6 @@ $ python modelling.py
 ```
 The models are saved as joblib files in the *models* sub-directory.
 
-## Part 3
-Please refer to the notebook `part3-model-production.ipynb` to get detailed insights into Part 3 solution. A slide show is also available in the *documentation* sub-directory.
 
 ### Test the flask API
 
