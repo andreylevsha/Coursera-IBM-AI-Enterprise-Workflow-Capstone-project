@@ -1,4 +1,4 @@
-# IBM AI Enterprise Workflow Capstone
+# IBM AI Enterprise Workflow Capstone Project
 Solution for the IBM AI Enterprise Workflow Capstone project.
 
 Please, go to [https://github.com/aavail/ai-workflow-capstone](https://github.com/aavail/ai-workflow-capstone) to read the project description and deliverables.
